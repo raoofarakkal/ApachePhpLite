@@ -1,2 +1,1 @@
-# ApachePhpLite
-Apache PHP lite version
+Apache PHP Lite version image
